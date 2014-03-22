@@ -6,10 +6,10 @@ Componentes del Equipo
 
 (Máximo 4 integrantes por grupo)
 
-+ Nombre del integrante #1 (Desarrollo y Sistemas)
-+ Nombre del integrante #4 (Sistemas)
-+ Nombre del integrante #2 (Diseñador)
-+ Nombre del integrante #3 (Maquetadora)
++ Jose Manuel García Martín (Desarrollo y Maquetador)
++ Daniel Manzano Puga (Desarrollo y Maquetador)
++ Félix Ánibal Miras Cidad (Diseñador)
++ Manuel Torres Martínez (Diseñador)
 
 Descripción
 -------------
