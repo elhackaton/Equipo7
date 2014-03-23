@@ -13,7 +13,13 @@ Componentes del Equipo
 
 Descripción
 -------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+APLICACIÓN DE VIGILANCIA, MONITORIZACIÓN Y SEGUIMIENTO A TRAVÉS DE GEOLOCALIZACIÓN MOVIL. CONTROL DE CUALQUIER PERSONA CON ALGUN TIPO PROBLEMA DE ORIENTACIÓN, DE BARRERA VISUAL O MEMORIA, UTILIZANDO TECNICAS DE GEOLOCALIZACIÓN.
+
+FUNCIONALIDAD DE VIGILANCIA DE PERSONAS CON PROBLEMAS DE ORIENTACIÓN, DE MEMORIA, INVIDENTES Y NIÑOS.
+
+FUNCIONALIDAD DE LAZARILLO ELECTRONICO PARA ORIENTACIÓN DE PERSONAS INVIDENTES.
+
+FUNCIONALIDAD DE BOTÓN ANTI-PANICO PARA PERSONAS MAYORES, DISCAPACITADOS Y NIÑOS.
 
 Estado del desarrollo actual
 ----------------------------
